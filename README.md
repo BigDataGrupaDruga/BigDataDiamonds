@@ -18,7 +18,7 @@
 
 ## Zadanie 2: Korelacja.
 
-#### W zadaniu drugim najpierw utworzono dodatkową tabelę zawierającą wartości dla określonych kategorii diamentów (zgodnie z wytycznymi np. kolorom zostąły przypisane wartości liczbowe wskazujące na ich stopień jakości). Następnie w Pythonie została wykonana korelacja, korzystając z korelacji Pearsona. Na koniec zaimportowano bibliotekę Seaborn dla lepszej jakości graficznego ujęcia problemu.
+#### W zadaniu drugim najpierw utworzono dodatkową tabelę zawierającą wartości dla określonych kategorii diamentów (zgodnie z wytycznymi np. kolorom zostały przypisane wartości liczbowe wskazujące na ich stopień jakości). Następnie w Pythonie została wykonana korelacja, korzystając z korelacji Pearsona. Na koniec zaimportowano bibliotekę Seaborn dla lepszej jakości graficznego ujęcia problemu.
 
 ![grafika z korelacją](https://i.imgur.com/sylNGTc.png)
 
