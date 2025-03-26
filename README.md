@@ -28,4 +28,5 @@
 
 ![wykres regresji liniowej](https://i.imgur.com/ghoP5K0.png)
 
-##### Pozostałe dwa (z czterech) zadania zostały rozwiązane przy użyciu technologii Power BI, Microsoft Azure oraz języka SQL.
+## Pozostałe zadania
+#### Pozostałe dwa (z czterech) zadania zostały rozwiązane przy użyciu technologii Power BI, Microsoft Azure oraz języka SQL.
