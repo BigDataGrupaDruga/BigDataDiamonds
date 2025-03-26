@@ -24,7 +24,7 @@
 
 ## Zadanie 4: Predykcja przy użyciu techniki uczenia maszynowego.
 
-#### W czwartym zadaniu została wybrana techniki regresji liniowej. Przeprowadzony został trening na oczyszczonych danych w Pythonie korzystając z biblioteki scikit-learn. Ostateczną predykcję ceny diamentów w stosunku do ilości karatu przedstawiono korzystając z regresji liniowej, tworząc wizualizację przy użyciu biblioteki matplotlib.
+#### W czwartym zadaniu została wybrana technika regresji liniowej. Przeprowadzony został trening na oczyszczonych danych w Pythonie korzystając z biblioteki scikit-learn. Ostateczną predykcję ceny diamentów w stosunku do ilości karatu przedstawiono korzystając z regresji liniowej, tworząc wizualizację przy użyciu biblioteki matplotlib.
 
 ![wykres regresji liniowej](https://i.imgur.com/ghoP5K0.png)
 
