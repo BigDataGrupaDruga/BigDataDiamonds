@@ -20,10 +20,12 @@
 
 #### W zadaniu drugim najpierw utworzono dodatkową tabelę zawierającą wartości dla określonych kategorii diamentów (zgodnie z wytycznymi np. kolorom zostąły przypisane wartości liczbowe wskazujące na ich stopień jakości). Następnie w Pythonie została wykonana korelacja, korzystając z korelacji Pearsona. Na koniec zaimportowano bibliotekę Seaborn dla lepszej jakości graficznego ujęcia problemu.
 
-![correlation coefficient](https://i.imgur.com/sylNGTc.png)
+![grafika z korelacją](https://i.imgur.com/sylNGTc.png)
 
 ## Zadanie 4: Predykcja przy użyciu techniki uczenia maszynowego.
 
 #### W czwartym zadaniu została wybrana techniki regresji liniowej. Przeprowadzony został trening na oczyszczonych danych w Pythonie korzystając z biblioteki scikit-learn. Ostateczną predykcję ceny diamentów w stosunku do ilości karatu przedstawiono korzystając z regresji liniowej, tworząc wizualizację przy użyciu biblioteki matplotlib.
+
+![wykres regresji liniowej](https://i.imgur.com/ghoP5K0.png)
 
 ##### Pozostałe dwa (z czterech) zadania zostały rozwiązane przy użyciu technologii Power BI, Microsoft Azure oraz języka SQL.
