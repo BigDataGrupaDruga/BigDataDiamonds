@@ -1,10 +1,10 @@
-# Diamenty Tiffany'ego 
+# Diamenty Tiffany'ego :gem:
 
 #### Projekt wykonany jako praca zaliczeniowa na studiach podyplomowych, na Uniwersytecie WSB Merito w Poznaniu na kierunku Big Data i inżynieria danych.
 #### Projekt wykonany przez 4 osoby, którego część na Githubie zawiera rozwiązanie 2 z przedstawionych zadań oraz proces czyszczenia danych.
 
 
-# Technologie użyte w projekcie
+# Technologie użyte w projekcie 📁
 
 #### Wiodącą technologią jest język Python 3 a konkretniej biblioteka Pandas, przy użyciu której zostało wykonane czyszczenie danych oraz dwa zadania. Przy pisaniu kodu w Pythonie użyto Jupyter Notebook oraz oprócz wspomnianego Pandas innych bibliotek języka Python (jak np. Scikit-learn i matplotlib). 
 #### Dane, na których wykonany został projekt przedstawiają dane dotyczące Diamentów Tiffany'ego, plik w formacie .csv został wcześniej "zabrudzony".
@@ -19,6 +19,8 @@
 ## Zadanie 2: Korelacja.
 
 #### W zadaniu drugim najpierw utworzono dodatkową tabelę zawierającą wartości dla określonych kategorii diamentów (zgodnie z wytycznymi np. kolorom zostąły przypisane wartości liczbowe wskazujące na ich stopień jakości). Następnie w Pythonie została wykonana korelacja, korzystając z korelacji Pearsona. Na koniec zaimportowano bibliotekę Seaborn dla lepszej jakości graficznego ujęcia problemu.
+
+![correlation coefficient](https://i.imgur.com/sylNGTc.png)
 
 ## Zadanie 4: Predykcja przy użyciu techniki uczenia maszynowego.
 
