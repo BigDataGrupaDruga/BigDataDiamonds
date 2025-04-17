@@ -16,11 +16,20 @@
 
 #### Czyszczenie danych wykonane przy użyciu biblioteki Pandas. Dane zostały wcześniej przekształcone do formatu DateFrame, aby móc na nich łatwiej pracować. Następnie poddane zostały kolejnej fazie czyszczenia.
 
-## Zadanie 2: Korelacja.
+## Zadanie 1: Analiza wpływu wagi i cech jakościowych na cenę diamentu
+
+#### Zadanie zostało wykonane przy użyciu technologii Microsoft Power BI. Zaimportowano i przekształcono dane oraz została wykonana wizualizacja dla analizy cech diamentów w stosunku do ceny.
+
+![grafika z analizą ceny diamentów](https://github.com/BigDataGrupaDruga/BigDataDiamonds/blob/main/Task%201/Analiza_Ceny_PBI.png)
+
+## Zadanie 2: Korelacja pomiędzy wymiarami diamentów a ich jakością.
 
 #### W zadaniu drugim najpierw utworzono dodatkową tabelę zawierającą wartości dla określonych kategorii diamentów (zgodnie z wytycznymi np. kolorom zostały przypisane wartości liczbowe wskazujące na ich stopień jakości). Następnie w Pythonie została wykonana korelacja, korzystając z korelacji Pearsona. Na koniec zaimportowano bibliotekę Seaborn dla lepszej jakości graficznego ujęcia problemu.
 
 ![grafika z korelacją](https://i.imgur.com/sylNGTc.png)
+
+## Zadanie 3: Segmentacja diamentów na podstawie atrybutów
+#### [W budowie]
 
 ## Zadanie 4: Predykcja przy użyciu techniki uczenia maszynowego.
 
@@ -28,5 +37,3 @@
 
 ![wykres regresji liniowej](https://i.imgur.com/ghoP5K0.png)
 
-## Pozostałe zadania
-#### Pozostałe dwa (z czterech) zadania zostały rozwiązane przy użyciu technologii Power BI, Microsoft Azure oraz języka SQL.
