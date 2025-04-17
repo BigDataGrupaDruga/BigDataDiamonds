@@ -1,7 +1,7 @@
 # Diamenty Tiffany'ego :gem:
 
 #### Projekt wykonany jako praca zaliczeniowa na studiach podyplomowych, na Uniwersytecie WSB Merito w Poznaniu na kierunku Big Data i inżynieria danych.
-#### Projekt wykonany przez 4 osoby, którego część na Githubie zawiera rozwiązanie 2 z przedstawionych zadań oraz proces czyszczenia danych.
+#### Projekt wykonany przez 4 osoby, którego część na Githubie zawiera rozwiązanie 4 przedstawionych zadań oraz proces czyszczenia danych.
 
 
 # Technologie użyte w projekcie 📁
