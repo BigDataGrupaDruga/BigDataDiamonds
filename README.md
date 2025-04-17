@@ -8,6 +8,7 @@
 
 #### Wiodącą technologią jest język Python 3 a konkretniej biblioteka Pandas, przy użyciu której zostało wykonane czyszczenie danych oraz dwa zadania. Przy pisaniu kodu w Pythonie użyto Jupyter Notebook oraz, oprócz wspomnianego Pandas, innych bibliotek języka Python (jak np. Scikit-learn i matplotlib). 
 #### Dane, na których wykonany został projekt przedstawiają dane dotyczące Diamentów Tiffany'ego, plik w formacie .csv został wcześniej "zabrudzony".
+#### Wizualizacje danych (dla zadania 1 i 3) zostały wykonane przy użyciu usługi Microsoft Power BI.
 
 
 # Poszczególne zadania
@@ -16,7 +17,7 @@
 
 #### Czyszczenie danych wykonane przy użyciu biblioteki Pandas. Dane zostały wcześniej przekształcone do formatu DateFrame, aby móc na nich łatwiej pracować. Następnie poddane zostały kolejnej fazie czyszczenia.
 
-## Zadanie 1: Analiza wpływu wagi i cech jakościowych na cenę diamentu
+## Zadanie 1: Analiza wpływu wagi i cech jakościowych na cenę diamentu.
 
 #### Zadanie zostało wykonane przy użyciu technologii Microsoft Power BI. Zaimportowano i przekształcono dane oraz została wykonana wizualizacja dla analizy cech diamentów w stosunku do ceny.
 
@@ -28,7 +29,7 @@
 
 ![grafika z korelacją](https://i.imgur.com/sylNGTc.png)
 
-## Zadanie 3: Segmentacja diamentów na podstawie atrybutów
+## Zadanie 3: Segmentacja diamentów na podstawie atrybutów.
 #### [W budowie]
 
 ## Zadanie 4: Predykcja przy użyciu techniki uczenia maszynowego.
