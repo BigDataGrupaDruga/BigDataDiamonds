@@ -30,7 +30,9 @@
 ![grafika z korelacją](https://i.imgur.com/sylNGTc.png)
 
 ## Zadanie 3: Segmentacja diamentów na podstawie atrybutów.
-#### [W budowie]
+#### Do wykonania tego zadania została wybrana metoda segmentacji grupowania. Wizualizacje składające się z wykresów zostały wykonane przy użyciu technologii Power BI.
+
+![grafika z metodą segmentacji diamentów](https://raw.githubusercontent.com/BigDataGrupaDruga/BigDataDiamonds/refs/heads/main/Task%203/Segmentacji_grupowanie.png)
 
 ## Zadanie 4: Predykcja przy użyciu techniki uczenia maszynowego.
 
