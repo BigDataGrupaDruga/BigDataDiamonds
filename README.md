@@ -21,7 +21,7 @@
 
 #### Zadanie zostało wykonane przy użyciu technologii Microsoft Power BI. Zaimportowano i przekształcono dane oraz została wykonana wizualizacja dla analizy cech diamentów w stosunku do ceny.
 
-![grafika z analizą ceny diamentów](https://github.com/BigDataGrupaDruga/BigDataDiamonds/blob/main/Task%201/Analiza_Ceny_PBI.png)
+![grafika z analizą ceny diamentów](https://raw.githubusercontent.com/BigDataGrupaDruga/BigDataDiamonds/refs/heads/main/Task%201/Analiza_ceny_Diamenty.png)
 
 ## Zadanie 2: Korelacja pomiędzy wymiarami diamentów a ich jakością.
 
